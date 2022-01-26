@@ -1,1 +1,8 @@
+The four files in this dictionary show the result of 5-fold cross-validation analysis. The objective is to choose optimal upper mean for Mean-uncertain method, and choose optimal upper volatility and lower volatility for Volatility-unncertain method.
 
+"CV_select_mu_MM_gla_simple.csv": To choose optimal upper mean for Mean-uncertain method based on max-mean loss method;
+"CV_which_mu_to_set_inLRBIAS_gla.csv":  To choose optimal upper mean for Mean-uncertain method based on LR;
+"CV_which_sigma_to_set_inxhBIAS.csv": To choose optimal upper volatility and lower volatility for  Volatility-unncertain method based on max-mean loss;
+"CV_which_sigma_to_set_inLRBIAS.csv": To choose optimal upper volatility and lower volatility for  Volatility-unncertain method based on LR;
+
+Each ".csv" has been sorted in a descending order by "Score", which is computed by the average mean of "Recall", "B-acc", "F_measure", thus the first item of each table represents the optimal choice. 
