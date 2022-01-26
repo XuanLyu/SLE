@@ -8,4 +8,6 @@ imbalanced learning;
 #Thirdly, the codes run for the volatility-uncertain method,  and select the optimal upper volatility and lower volatility by 5-fold cross-validation analysis;
 #Finally, we display the performances on testing set 
 #For detailed result of 5-fold cross-validation analysis, see dictionary "Cross_Validation_result", and see "parameter_selection.txt" for specification.
-## Link of Celeb A: link:https://pan.baidu.com/s/15nPAVyt_Db06YJ6OJ_W0Ag  password:1b3q
+
+
+# Link of Celeb A: link:https://pan.baidu.com/s/15nPAVyt_Db06YJ6OJ_W0Ag  password:1b3q
