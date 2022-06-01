@@ -10,6 +10,6 @@ To make it more clear, we have packaged the related codes of ``Mean-uncertain me
 
 To compare all the methods in the same platform, we provide the codes of DRM and max-mean loss methods, which are not available in ``python'' environment at least, in the folder ``Supplimentary codes''. Also, an example is given thereafter to show how the codes work in practice.
 
-
+The folder ``Fivefold cross validation'' summarizes the performances of classifiers, depend on which we select parameters. The files in that folder mainly contain the cross-validation results of DRM, and mean-uncertain LR on simulated data as well as the CelebA datasets. As for parameters selected for distribution-uncertain methods on other datasets, they are decided automaticly in our codes. See ``mean-uncertain method'' file in the folder ``Distribution-uncertain methods'' for detailed codes.
 
 Finally, all codes can be run in jupyter.
