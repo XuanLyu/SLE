@@ -7,4 +7,4 @@ We conduct experiments on 10 real-life datasets. Among them, six are from KEEL, 
 
 #Link of Celeb A_36:https://pan.baidu.com/s/11-gcQK4FDRb0CUlPSd59yg password:t9h0
 
-The last one is  WOODS mammography, uploaded in this folder.
+The last one is  WOODS mammography, uploaded in this folder. You can also download it from 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/mammography.csv'
