@@ -4,7 +4,7 @@ We present the process of evaluating different models in this folder:
 
 2. The comparisons of distribution-uncertain methods and SOTA methods in terms of time-cost and accuracy are presented in ``comparisons of training time...''. These comparisons are conducted on three CelebA datasets.
 
-3.  The comprehensive comparisons of distribution-uncertain methods and all of the SOTA methods can be found in other ``.ipnb'' files, each of which corresponds to a dataset. Not all the files have been noted with explainary sentences, because the process for different datasets are the same. You can contact the writer to request a detailed explaination on any dataset.
+3.  The comprehensive comparisons of distribution-uncertain methods and all of the SOTA methods can be found in other ``.ipnb'' files, each of which corresponds to a dataset. The files ``CelebA_6_bangs(1)'',``Simulation study on dsitribution-uncertain...'',``comparisons of training time...'',``experiments added-keel_ecoli_0123ecoli'', ``experiments added-keelyeast_3(1)''  have been noted with explainary sentences.  Not all the files have been noted with explainary sentences, because the process for different datasets are the same. You can contact the writer to request a detailed explaination on any dataset.
 
 To make it more clear, we have packaged the related codes of ``Mean-uncertain method'' and ``Volatility-uncertain method'' in folder ``Distribution-uncertain methods'', including both the process of estimation and cross-validation. An example is given thereafter to show how the codes work in practice.
 
