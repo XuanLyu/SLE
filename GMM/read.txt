@@ -1,3 +1,5 @@
+Simulation results.py: Codes for GMM estimation of simulation experiments.
+Empirical results-Russell 2000.py: Codes for GMM estimation of real-life stock index.
+/Simulation results/re_simulated result_maxmax.xls: GMM estimation and model testing for max-max model
+/Simulation results/re_simulated result_maxmin.xls: GMM estimation and model testing for max-min model
 
-re_simulated result_maxmax.xls: GMM estimation and model testing for max-max model
-re_simulated result_maxmin.xls: GMM estimation and model testing for max-min model
