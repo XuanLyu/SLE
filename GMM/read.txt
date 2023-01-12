@@ -1,0 +1,3 @@
+
+re_simulated result_maxmax.xls: GMM estimation and model testing for max-max model
+re_simulated result_maxmin.xls: GMM estimation and model testing for max-min model
